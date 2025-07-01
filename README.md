@@ -44,7 +44,7 @@ Performed SQL queries to answer questions like:
 - Highest sales month per category
 - Sub-category with the highest growth in 2023 over 2022
 
-Used techniques like:
+### 4. Used techniques like:
 - Common Table Expressions (CTEs)
 - Window Functions ('ROW_NUMBER')
 - 'CASE WHEN', 'GROUP BY', 'ORDER BY', 'LIMIT', and more
@@ -53,17 +53,17 @@ Used techniques like:
 
 ## Files in This Repo
 
-|         File                     |                  Description                |
-|----------------------------------|---------------------------------------------|
-|  'sqlproject.ipynb'              | Full notebook: ETL + SQL queries documented |
-|  'sql_project.sql'               | Raw SQL queries for all business questions  |
-|  'orders.csv'                    | Cleaned dataset for reproducibility         |
-|  'sales analysis project output' |
-|  'README.md'                     | You’re reading it!                          |
+|         File                          |                  Description                |
+|---------------------------------------|---------------------------------------------|
+|  'sqlproject.ipynb'                   | Full notebook: ETL + SQL queries documented |
+|  'sql_project.sql'                    | Raw SQL queries for all business questions  |
+|  'orders.csv'                         | Cleaned dataset for reproducibility         |
+|  'Sales Analysis Project Output.docx' | Output Screenshots of SQL Queries           |
+|  'README.md'                          | You’re reading it!                          |
 
 
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning & Preprocessing
 - SQL for Analytics & BI
@@ -71,15 +71,15 @@ Used techniques like:
 - Writing efficient analytical queries
 - Business-driven storytelling using data
 
----
 
-## 🔗 Connect With Me
 
-**[LinkedIn](https://linkedin.com/in/diyamenghani007)** | **[GitHub](https://github.com/diyamenghani007)**
+## Connect With Me
 
----
+**[LinkedIn](https://www.linkedin.com/in/diya-menghani-ab409031a/)** | **[GitHub](https://github.com/diyamenghani007)**
 
-## ⭐ If you liked this project:
+
+
+## If you liked this project:
 - ⭐ Star the repo  
 - 📩 Reach out to collaborate
 
